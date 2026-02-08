@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=subatomi" alt="subatomi" width="2000" /></a> </p>
 
-- 🔭 I’m currently working on [TechnoSpace](https://github.com/zyle-geralde/TechnoSpaceFrontEnd/branches)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/laderatheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/laderatheo" height="30" width="40" /></a>
